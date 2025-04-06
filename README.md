@@ -1,1 +1,1 @@
-# qualidade_teste_de_software
+# qualidade_teste_de_software, equipe:janeilson,jaiane,yhasmin,eliel,herik vinicius

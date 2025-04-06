@@ -1,0 +1,4 @@
+Site Escolhido: https://the-internet.herokuapp.com/
+motivo: o site the internet herokuapp oferece varias funcionalidades e exemplos praticos
+de interfaces permitindo com que a equipe utilize e aplique os conceitos de BDD e gherkin
+de forma abrangente e prática, sem complicações excessivas na configuração do ambiente.
