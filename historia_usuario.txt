@@ -1,4 +1,5 @@
 # historia do usuario 
 Como usuário do The Internet herokuapp,
 quero realizar o login com credenciais válidas,
-para que eu possa acessar as funcionalidades restritas (como controles dinâmicos, alertas, checkboxes e dropdowns) e testar a experiência de uso e segurança do sistema.
+para que eu possa acessar as funcionalidades (utenticação Básica,Caixas de Seleção e Adicionar e Remover Elementos,
+Geolocalização,Download e upload de arquivo,Alertas JavaScript) e testar a experiência de uso e segurança do sistema.
